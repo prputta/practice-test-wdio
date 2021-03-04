@@ -1,0 +1,56 @@
+{
+  "uid" : "da734baee4f3b4d5",
+  "name" : "should get field text",
+  "fullName" : "interaction with web elements.should get field text",
+  "historyId" : "9d4a5054f4ce71f70a1c167c5cdcfbbd",
+  "time" : {
+    "start" : 1614854035653,
+    "stop" : 1614854046992,
+    "duration" : 11339
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testClass",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get field text"
+  }, {
+    "name" : "package",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.72"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da734baee4f3b4d5.json",
+  "parameterValues" : [ "chrome-89.0.4389.72" ]
+}

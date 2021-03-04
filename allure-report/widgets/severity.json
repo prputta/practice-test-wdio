@@ -1,0 +1,61 @@
+[ {
+  "uid" : "79273132d52f4ca0",
+  "name" : "should click signin button",
+  "time" : {
+    "start" : 1614854613564,
+    "stop" : 1614854615998,
+    "duration" : 2434
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "772a5d44095dac5e",
+  "name" : "should click on accounts button",
+  "time" : {
+    "start" : 1614854609202,
+    "stop" : 1614854613564,
+    "duration" : 4362
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35a98f9513e7a56a",
+  "name" : "search in a field",
+  "time" : {
+    "start" : 1614854597928,
+    "stop" : 1614854606200,
+    "duration" : 8272
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ade29cd65aa84db8",
+  "name" : "should click on element",
+  "time" : {
+    "start" : 1614854606200,
+    "stop" : 1614854609202,
+    "duration" : 3002
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cd6950ed54d92ec",
+  "name" : "should click on login button",
+  "time" : {
+    "start" : 1614839096618,
+    "stop" : 1614839109259,
+    "duration" : 12641
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "876be870622bbd1d",
+  "name" : "should get field text",
+  "time" : {
+    "start" : 1614854591990,
+    "stop" : 1614854597926,
+    "duration" : 5936
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

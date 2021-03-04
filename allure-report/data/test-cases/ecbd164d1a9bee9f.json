@@ -1,0 +1,58 @@
+{
+  "uid" : "ecbd164d1a9bee9f",
+  "name" : "should get field text",
+  "fullName" : "interaction with web elements.should get field text",
+  "historyId" : "9d4a5054f4ce71f70a1c167c5cdcfbbd",
+  "time" : {
+    "start" : 1614836001164,
+    "stop" : 1614836015721,
+    "duration" : 14557
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call getText on element with selector \"span.a-size-base a-color-base\" because element wasn't found",
+  "statusTrace" : "Error: Can't call getText on element with selector \"span.a-size-base a-color-base\" because element wasn't found\n                    at Object.implicitWait [as default] (C:\\Develop\\practice-test-wdio\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:34:19)\n                    at Element.runCommandWithHooks (C:\\Develop\\practice-test-wdio\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:100:24)\n                    at Element.wrapCommandFn (C:\\Develop\\practice-test-wdio\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:67:44)\n                    at Element.getText (C:\\Develop\\practice-test-wdio\\node_modules\\webdriverio\\build\\middlewares.js:44:12)\n                    at Context.<anonymous> (C:\\Develop\\practice-test-wdio\\test\\/login.test.js:12:26)\n                    at Context.executeSync (C:\\Develop\\practice-test-wdio\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Develop\\practice-test-wdio\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testClass",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get field text"
+  }, {
+    "name" : "package",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.72"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ecbd164d1a9bee9f.json",
+  "parameterValues" : [ "chrome-89.0.4389.72" ]
+}

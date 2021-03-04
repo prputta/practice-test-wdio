@@ -1,0 +1,175 @@
+{
+  "uid" : "79273132d52f4ca0",
+  "name" : "should click signin button",
+  "fullName" : "interaction with web elements.should click signin button",
+  "historyId" : "195a4b8fbd862f2548f955bddc3806d4",
+  "time" : {
+    "start" : 1614854613564,
+    "stop" : 1614854615998,
+    "duration" : 2434
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testClass",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click signin button"
+  }, {
+    "name" : "package",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.72"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "adf6e6d852d4fb1a",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'setValue' of undefined",
+      "time" : {
+        "start" : 1614854346356,
+        "stop" : 1614854348964,
+        "duration" : 2608
+      }
+    }, {
+      "uid" : "3dc4f96a8536b90f",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'setValue' of undefined",
+      "time" : {
+        "start" : 1614854199091,
+        "stop" : 1614854201584,
+        "duration" : 2493
+      }
+    }, {
+      "uid" : "f1d99a71d8b8526b",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'setValue' of undefined",
+      "time" : {
+        "start" : 1614854060811,
+        "stop" : 1614854063086,
+        "duration" : 2275
+      }
+    }, {
+      "uid" : "bbbdb82708170613",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'setValue' of undefined",
+      "time" : {
+        "start" : 1614853845059,
+        "stop" : 1614853848033,
+        "duration" : 2974
+      }
+    }, {
+      "uid" : "e7bbc2ad7993a04f",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'setValue' of undefined",
+      "time" : {
+        "start" : 1614853752436,
+        "stop" : 1614853755176,
+        "duration" : 2740
+      }
+    }, {
+      "uid" : "bca0819888abf495",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"ap_email_login\" because element wasn't found",
+      "time" : {
+        "start" : 1614850101301,
+        "stop" : 1614850113851,
+        "duration" : 12550
+      }
+    }, {
+      "uid" : "3ee196c185e8649c",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"ap_email_login\" because element wasn't found",
+      "time" : {
+        "start" : 1614849227456,
+        "stop" : 1614849239724,
+        "duration" : 12268
+      }
+    }, {
+      "uid" : "de192661229408d2",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"ap_email_login\" because element wasn't found",
+      "time" : {
+        "start" : 1614848704257,
+        "stop" : 1614848717028,
+        "duration" : 12771
+      }
+    }, {
+      "uid" : "452a12d975fb0c90",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"ap_email_login\" because element wasn't found",
+      "time" : {
+        "start" : 1614847569722,
+        "stop" : 1614847585037,
+        "duration" : 15315
+      }
+    }, {
+      "uid" : "21b597f806427835",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"ap_email_login\" because element wasn't found",
+      "time" : {
+        "start" : 1614846562370,
+        "stop" : 1614846575299,
+        "duration" : 12929
+      }
+    }, {
+      "uid" : "a3d1114c035dd63c",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"ap_email_login\" because element wasn't found",
+      "time" : {
+        "start" : 1614844964223,
+        "stop" : 1614844976239,
+        "duration" : 12016
+      }
+    }, {
+      "uid" : "a209861f8fee59a5",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"ap_email_login\" because element wasn't found",
+      "time" : {
+        "start" : 1614841861154,
+        "stop" : 1614841874128,
+        "duration" : 12974
+      }
+    }, {
+      "uid" : "64e7a0e9f8493e4d",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"ap_email_login\" because element wasn't found",
+      "time" : {
+        "start" : 1614839722055,
+        "stop" : 1614839733907,
+        "duration" : 11852
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "79273132d52f4ca0.json",
+  "parameterValues" : [ "chrome-89.0.4389.72" ]
+}

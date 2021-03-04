@@ -1,0 +1,76 @@
+{
+  "uid" : "3dc4f96a8536b90f",
+  "name" : "should click signin button",
+  "fullName" : "interaction with web elements.should click signin button",
+  "historyId" : "195a4b8fbd862f2548f955bddc3806d4",
+  "time" : {
+    "start" : 1614854199091,
+    "stop" : 1614854201584,
+    "duration" : 2493
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Cannot read property 'setValue' of undefined",
+  "statusTrace" : "TypeError: Cannot read property 'setValue' of undefined\n                    at Context.<anonymous> (C:\\Develop\\practice-test-wdio\\test\\/login.test.js:29:21)\n                    at Context.executeSync (C:\\Develop\\practice-test-wdio\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Develop\\practice-test-wdio\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Cannot read property 'setValue' of undefined",
+    "statusTrace" : "TypeError: Cannot read property 'setValue' of undefined\n                    at Context.<anonymous> (C:\\Develop\\practice-test-wdio\\test\\/login.test.js:29:21)\n                    at Context.executeSync (C:\\Develop\\practice-test-wdio\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Develop\\practice-test-wdio\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d0ae65e2b7aad72e",
+      "name" : "Screenshot",
+      "source" : "d0ae65e2b7aad72e.png",
+      "type" : "image/png",
+      "size" : 303383
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testClass",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click signin button"
+  }, {
+    "name" : "package",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.72"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3dc4f96a8536b90f.json",
+  "parameterValues" : [ "chrome-89.0.4389.72" ]
+}

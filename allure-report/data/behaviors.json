@@ -1,0 +1,83 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "should click on login button",
+    "uid" : "5cd6950ed54d92ec",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1614839096618,
+      "stop" : 1614839109259,
+      "duration" : 12641
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-89.0.4389.72" ]
+  }, {
+    "name" : "should get field text",
+    "uid" : "876be870622bbd1d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1614854591990,
+      "stop" : 1614854597926,
+      "duration" : 5936
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-89.0.4389.72" ]
+  }, {
+    "name" : "search in a field",
+    "uid" : "35a98f9513e7a56a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1614854597928,
+      "stop" : 1614854606200,
+      "duration" : 8272
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-89.0.4389.72" ]
+  }, {
+    "name" : "should click on element",
+    "uid" : "ade29cd65aa84db8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1614854606200,
+      "stop" : 1614854609202,
+      "duration" : 3002
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-89.0.4389.72" ]
+  }, {
+    "name" : "should click on accounts button",
+    "uid" : "772a5d44095dac5e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1614854609202,
+      "stop" : 1614854613564,
+      "duration" : 4362
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-89.0.4389.72" ]
+  }, {
+    "name" : "should click signin button",
+    "uid" : "79273132d52f4ca0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1614854613564,
+      "stop" : 1614854615998,
+      "duration" : 2434
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-89.0.4389.72" ]
+  } ]
+}

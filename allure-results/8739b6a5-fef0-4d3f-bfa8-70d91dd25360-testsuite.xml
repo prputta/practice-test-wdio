@@ -1,0 +1,90 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1614850079878' stop='1614850113852'>
+    <name>interaction with web elements</name>
+    <title>interaction with web elements</title>
+    <test-cases>
+        <test-case start='1614850079881' status='passed' stop='1614850085358'>
+            <name>should get field text</name>
+            <title>should get field text</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-89.0.4389.72'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614850085361' status='passed' stop='1614850095015'>
+            <name>search in a field</name>
+            <title>search in a field</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-89.0.4389.72'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614850095015' status='passed' stop='1614850097755'>
+            <name>should click on element</name>
+            <title>should click on element</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-89.0.4389.72'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614850097756' status='passed' stop='1614850101301'>
+            <name>should click on accounts button</name>
+            <title>should click on accounts button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-89.0.4389.72'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1614850101301' status='broken' stop='1614850113851'>
+            <name>should click signin button</name>
+            <title>should click signin button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-89.0.4389.72'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9dec6ed1-89ea-427f-b064-8fb578dd47e4-attachment.png' type='image/png' size='327066'/>
+            </attachments>
+            <failure>
+                <message>Can't call setValue on element with selector "ap_email_login" because element wasn't found</message>
+                <stack-trace>Error: Can't call setValue on element with selector "ap_email_login" because element wasn't found
+                    at Object.implicitWait [as default] (C:\Develop\practice-test-wdio\node_modules\webdriverio\build\utils\implicitWait.js:34:19)
+                    at Element.runCommandWithHooks (C:\Develop\practice-test-wdio\node_modules\@wdio\sync\build\wrapCommand.js:100:24)
+                    at Element.wrapCommandFn (C:\Develop\practice-test-wdio\node_modules\@wdio\sync\build\wrapCommand.js:67:44)
+                    at Element.setValue (C:\Develop\practice-test-wdio\node_modules\webdriverio\build\middlewares.js:44:12)
+                    at Context.&lt;anonymous> (C:\Develop\practice-test-wdio\test\/login.test.js:29:16)
+                    at Context.executeSync (C:\Develop\practice-test-wdio\node_modules\@wdio\sync\build\index.js:38:22)
+                    at C:\Develop\practice-test-wdio\node_modules\@wdio\sync\build\index.js:69:68</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

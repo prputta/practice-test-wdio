@@ -1,0 +1,11 @@
+node_modules
+temp.js
+.temp
+package-lock.json
+*.log
+.env
+.idea
+ allure-report
+ allure-results
+ reports
+ build

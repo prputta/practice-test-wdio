@@ -1,0 +1,58 @@
+{
+  "uid" : "64e7a0e9f8493e4d",
+  "name" : "should click signin button",
+  "fullName" : "interaction with web elements.should click signin button",
+  "historyId" : "195a4b8fbd862f2548f955bddc3806d4",
+  "time" : {
+    "start" : 1614839722055,
+    "stop" : 1614839733907,
+    "duration" : 11852
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call setValue on element with selector \"ap_email_login\" because element wasn't found",
+  "statusTrace" : "Error: Can't call setValue on element with selector \"ap_email_login\" because element wasn't found\n                    at Object.implicitWait [as default] (C:\\Develop\\practice-test-wdio\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:34:19)\n                    at Element.runCommandWithHooks (C:\\Develop\\practice-test-wdio\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:100:24)\n                    at Element.wrapCommandFn (C:\\Develop\\practice-test-wdio\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:67:44)\n                    at Element.setValue (C:\\Develop\\practice-test-wdio\\node_modules\\webdriverio\\build\\middlewares.js:44:12)\n                    at Context.<anonymous> (C:\\Develop\\practice-test-wdio\\test\\/login.test.js:30:16)\n                    at Context.executeSync (C:\\Develop\\practice-test-wdio\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Develop\\practice-test-wdio\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testClass",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click signin button"
+  }, {
+    "name" : "package",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.72"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64e7a0e9f8493e4d.json",
+  "parameterValues" : [ "chrome-89.0.4389.72" ]
+}

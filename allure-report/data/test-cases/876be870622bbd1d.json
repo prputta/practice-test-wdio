@@ -1,0 +1,245 @@
+{
+  "uid" : "876be870622bbd1d",
+  "name" : "should get field text",
+  "fullName" : "interaction with web elements.should get field text",
+  "historyId" : "9d4a5054f4ce71f70a1c167c5cdcfbbd",
+  "time" : {
+    "start" : 1614854591990,
+    "stop" : 1614854597926,
+    "duration" : 5936
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testClass",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get field text"
+  }, {
+    "name" : "package",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.72"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c6dfb038df3afef5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614854327618,
+        "stop" : 1614854332230,
+        "duration" : 4612
+      }
+    }, {
+      "uid" : "8741d92372150e54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614854171936,
+        "stop" : 1614854181040,
+        "duration" : 9104
+      }
+    }, {
+      "uid" : "da734baee4f3b4d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614854035653,
+        "stop" : 1614854046992,
+        "duration" : 11339
+      }
+    }, {
+      "uid" : "2602735133991fc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614853821253,
+        "stop" : 1614853828388,
+        "duration" : 7135
+      }
+    }, {
+      "uid" : "7189d8eeb0c8b336",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614853725912,
+        "stop" : 1614853738247,
+        "duration" : 12335
+      }
+    }, {
+      "uid" : "eb08113086497d1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614850079881,
+        "stop" : 1614850085358,
+        "duration" : 5477
+      }
+    }, {
+      "uid" : "9e6d1d8193c49f49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614849206680,
+        "stop" : 1614849212770,
+        "duration" : 6090
+      }
+    }, {
+      "uid" : "656ba794646a36f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614848686486,
+        "stop" : 1614848691339,
+        "duration" : 4853
+      }
+    }, {
+      "uid" : "5deff52f39a78799",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614847535217,
+        "stop" : 1614847548159,
+        "duration" : 12942
+      }
+    }, {
+      "uid" : "3d677f9cb064c948",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614846539612,
+        "stop" : 1614846545384,
+        "duration" : 5772
+      }
+    }, {
+      "uid" : "7c44f8ae42078ef6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614844937890,
+        "stop" : 1614844949327,
+        "duration" : 11437
+      }
+    }, {
+      "uid" : "ab64231a83d615d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614841840109,
+        "stop" : 1614841846167,
+        "duration" : 6058
+      }
+    }, {
+      "uid" : "cec4e9c2af3d6923",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614839700297,
+        "stop" : 1614839707499,
+        "duration" : 7202
+      }
+    }, {
+      "uid" : "8806e8b76660923d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614839067497,
+        "stop" : 1614839082136,
+        "duration" : 14639
+      }
+    }, {
+      "uid" : "36f230d7620aeb1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614839015952,
+        "stop" : 1614839025785,
+        "duration" : 9833
+      }
+    }, {
+      "uid" : "c6433c874634fafe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614838473478,
+        "stop" : 1614838485110,
+        "duration" : 11632
+      }
+    }, {
+      "uid" : "2f763d1620ae048c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614838358529,
+        "stop" : 1614838383190,
+        "duration" : 24661
+      }
+    }, {
+      "uid" : "afe38e8d47c707a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614837673883,
+        "stop" : 1614837681833,
+        "duration" : 7950
+      }
+    }, {
+      "uid" : "8806206c5cf65be4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614837556382,
+        "stop" : 1614837569452,
+        "duration" : 13070
+      }
+    }, {
+      "uid" : "175c56766dd4ea01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614837461630,
+        "stop" : 1614837472064,
+        "duration" : 10434
+      }
+    }, {
+      "uid" : "79e296cfafc69208",
+      "status" : "broken",
+      "statusDetails" : "Can't call getText on element with selector \"span.a-size-base a-color-base\" because element wasn't found",
+      "time" : {
+        "start" : 1614837350091,
+        "stop" : 1614837371747,
+        "duration" : 21656
+      }
+    }, {
+      "uid" : "22215c3d2d901a5a",
+      "status" : "broken",
+      "statusDetails" : "Can't call getText on element with selector \"span.a-size-base a-color-base\" because element wasn't found",
+      "time" : {
+        "start" : 1614837287220,
+        "stop" : 1614837312464,
+        "duration" : 25244
+      }
+    }, {
+      "uid" : "ecbd164d1a9bee9f",
+      "status" : "broken",
+      "statusDetails" : "Can't call getText on element with selector \"span.a-size-base a-color-base\" because element wasn't found",
+      "time" : {
+        "start" : 1614836001164,
+        "stop" : 1614836015721,
+        "duration" : 14557
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "876be870622bbd1d.json",
+  "parameterValues" : [ "chrome-89.0.4389.72" ]
+}

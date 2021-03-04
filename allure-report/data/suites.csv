@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Mar 04 16:13:11 IST 2021","Thu Mar 04 16:13:17 IST 2021","5936","","interaction with web elements","","interaction with web elements","should get field text","should get field text",""
+"passed","Thu Mar 04 16:13:26 IST 2021","Thu Mar 04 16:13:29 IST 2021","3002","","interaction with web elements","","interaction with web elements","should click on element","should click on element",""
+"passed","Thu Mar 04 11:54:56 IST 2021","Thu Mar 04 11:55:09 IST 2021","12641","","interaction with web elements","","interaction with web elements","should click on login button","should click on login button",""
+"passed","Thu Mar 04 16:13:29 IST 2021","Thu Mar 04 16:13:33 IST 2021","4362","","interaction with web elements","","interaction with web elements","should click on accounts button","should click on accounts button",""
+"passed","Thu Mar 04 16:13:33 IST 2021","Thu Mar 04 16:13:35 IST 2021","2434","","interaction with web elements","","interaction with web elements","should click signin button","should click signin button",""
+"passed","Thu Mar 04 16:13:17 IST 2021","Thu Mar 04 16:13:26 IST 2021","8272","","interaction with web elements","","interaction with web elements","search in a field","search in a field",""

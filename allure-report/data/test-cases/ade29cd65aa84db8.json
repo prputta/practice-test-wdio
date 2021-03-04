@@ -1,0 +1,238 @@
+{
+  "uid" : "ade29cd65aa84db8",
+  "name" : "should click on element",
+  "fullName" : "interaction with web elements.should click on element",
+  "historyId" : "b7872b84aea7f540c987b124889554db",
+  "time" : {
+    "start" : 1614854606200,
+    "stop" : 1614854609202,
+    "duration" : 3002
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testClass",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on element"
+  }, {
+    "name" : "package",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.72"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f7f64a0501a58193",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614854340050,
+        "stop" : 1614854342337,
+        "duration" : 2287
+      }
+    }, {
+      "uid" : "b3373cf99206fbda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614854192599,
+        "stop" : 1614854195312,
+        "duration" : 2713
+      }
+    }, {
+      "uid" : "8fe7bab0788c0d54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614854054401,
+        "stop" : 1614854056226,
+        "duration" : 1825
+      }
+    }, {
+      "uid" : "c9a97dac14d0a116",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614853837421,
+        "stop" : 1614853839658,
+        "duration" : 2237
+      }
+    }, {
+      "uid" : "ea23de28a8c60a25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614853746574,
+        "stop" : 1614853748344,
+        "duration" : 1770
+      }
+    }, {
+      "uid" : "901d9d2f2a59d050",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614850095015,
+        "stop" : 1614850097755,
+        "duration" : 2740
+      }
+    }, {
+      "uid" : "53457108b312003b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614849220818,
+        "stop" : 1614849223589,
+        "duration" : 2771
+      }
+    }, {
+      "uid" : "fd6f1e129ff9f54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614848698813,
+        "stop" : 1614848700081,
+        "duration" : 1268
+      }
+    }, {
+      "uid" : "ec936e67ab87bce5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614847557716,
+        "stop" : 1614847562637,
+        "duration" : 4921
+      }
+    }, {
+      "uid" : "d3cf5d502765ceb1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614846555727,
+        "stop" : 1614846558277,
+        "duration" : 2550
+      }
+    }, {
+      "uid" : "d6096454179cc631",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614844956511,
+        "stop" : 1614844958888,
+        "duration" : 2377
+      }
+    }, {
+      "uid" : "867ff4c9f62ca3a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614841855424,
+        "stop" : 1614841857432,
+        "duration" : 2008
+      }
+    }, {
+      "uid" : "91d248fdccaa2f97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614839715761,
+        "stop" : 1614839717994,
+        "duration" : 2233
+      }
+    }, {
+      "uid" : "8574fc167cf7c91d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614839091865,
+        "stop" : 1614839096617,
+        "duration" : 4752
+      }
+    }, {
+      "uid" : "da6587e543ac7bea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614839036171,
+        "stop" : 1614839038719,
+        "duration" : 2548
+      }
+    }, {
+      "uid" : "ed46f9add0ce0d9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614838493757,
+        "stop" : 1614838496139,
+        "duration" : 2382
+      }
+    }, {
+      "uid" : "a28e80bf6fa9dad8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614838392568,
+        "stop" : 1614838395541,
+        "duration" : 2973
+      }
+    }, {
+      "uid" : "4a007d9a2a32d626",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614837689764,
+        "stop" : 1614837694019,
+        "duration" : 4255
+      }
+    }, {
+      "uid" : "7aa8ad7eed58b195",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"nav.nav-input\" because element wasn't found",
+      "time" : {
+        "start" : 1614837576367,
+        "stop" : 1614837588433,
+        "duration" : 12066
+      }
+    }, {
+      "uid" : "7b108486b00f726b",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"nav-search-submit-button\" because element wasn't found",
+      "time" : {
+        "start" : 1614837481766,
+        "stop" : 1614837493861,
+        "duration" : 12095
+      }
+    }, {
+      "uid" : "4c6934ca4904eb89",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"nav-search-submit-button\" because element wasn't found",
+      "time" : {
+        "start" : 1614837378605,
+        "stop" : 1614837390741,
+        "duration" : 12136
+      }
+    }, {
+      "uid" : "fbc1eea032e9c3b",
+      "status" : "broken",
+      "statusDetails" : "icon.clck is not a function",
+      "time" : {
+        "start" : 1614837320555,
+        "stop" : 1614837322383,
+        "duration" : 1828
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ade29cd65aa84db8.json",
+  "parameterValues" : [ "chrome-89.0.4389.72" ]
+}
