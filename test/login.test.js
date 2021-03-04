@@ -12,18 +12,18 @@ describe("interaction with web elements", function(){
        browser.pause(5000);
 
 });
-    it('should click on element', function(){
+    it('click on element', function(){
         browser.url('/');
         const icon = $('input.nav-input');
         icon.click();
 });
-    it('should click on accounts button', function(){
+    it('click on accounts button', function(){
         browser.url('/');
         const signInbtn = $('span.nav-line-2.nav-long-width');
         signInbtn.click();
 
     });
-    it('should capture browser title', function(){
+    it('capture browser title', function(){
         browser.url('/');
         let title = browser.getTitle();
         console.log(title);
